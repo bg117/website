@@ -1,0 +1,3 @@
+[submodule "projects"]
+	path = projects
+	url = git@github.com:bg117/projects-website
