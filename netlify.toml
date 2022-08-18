@@ -1,3 +1,3 @@
 [redirect]
-from = "/"
-to = "/projects"
+from = "/projects/*"
+to = "https://prismatic-lollipop-6213d5.netlify.app/:splat"
