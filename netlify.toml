@@ -3,3 +3,12 @@ from = "/projects/*"
 to = "https://prismatic-lollipop-6213d5.netlify.app/:splat"
 status = 200
 force = true
+
+[[redirects]]
+from = "/home/*"
+to = "https://remarkable-begonia-966d6b.netlify.app/:splat"
+status = 200
+
+[[redirects]]
+from = "/"
+to = "/home"
