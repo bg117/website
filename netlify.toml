@@ -1,7 +1,6 @@
 [[redirects]]
 from = "/projects/"
 to = "https://prismatic-lollipop-6213d5.netlify.app/"
-status = 200
 force = true
 
 [[redirects]]
