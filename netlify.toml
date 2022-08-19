@@ -1,9 +1,5 @@
 [[redirects]]
-from = "/blog/*"
-to = "https://bg117.blogspot.com/:splat"
-status = 200
-
-[[redirects]]
 from = "/projects/*"
 to = "https://prismatic-lollipop-6213d5.netlify.app/:splat"
 status = 200
+force = true
